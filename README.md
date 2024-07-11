@@ -53,12 +53,12 @@ https://github.com/ZHO-ZHO-ZHO/ComfyUI-AuraSR-ZHO/assets/140084057/a8458046-f379
 
 V1.0
 
-  - [V1.0 APISR img](https://github.com/ZHO-ZHO-ZHO/ComfyUI-AuraSR-ZHO/blob/main/AURASR%20WORKFLOWS/V1.0%20APISR%20img%E3%80%90Zho%E3%80%91.json)
+  - [V1.0 AuraSR img](https://github.com/ZHO-ZHO-ZHO/ComfyUI-AuraSR-ZHO/blob/main/AURASR%20WORKFLOWS/V1.0%20APISR%20img%E3%80%90Zho%E3%80%91.json)
 
     ![screenshot-20240711-005201](https://github.com/ZHO-ZHO-ZHO/ComfyUI-AuraSR-ZHO/assets/140084057/fbcf5f03-dd31-4e12-bad8-8b0a9145da7e)
 
 
-  - [V1.0 APISR video](https://github.com/ZHO-ZHO-ZHO/ComfyUI-AuraSR-ZHO/blob/main/AURASR%20WORKFLOWS/V1.0%20APISR%20video%E3%80%90Zho%E3%80%91.json)
+  - [V1.0 AuraSR video](https://github.com/ZHO-ZHO-ZHO/ComfyUI-AuraSR-ZHO/blob/main/AURASR%20WORKFLOWS/V1.0%20APISR%20video%E3%80%90Zho%E3%80%91.json)
     
     ![screenshot-20240711-005024](https://github.com/ZHO-ZHO-ZHO/ComfyUI-AuraSR-ZHO/assets/140084057/6475c976-4ac3-4cc7-95c0-5da3c04098a4)
 
